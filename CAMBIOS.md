@@ -21,3 +21,9 @@ Videos nuevos:
 - I GIFT MY WIFE THE CAR OF HER DREAMS — https://www.youtube.com/watch?v=oTyxiuYx32M
 
 Sin cambios: Hero, The Approach, video AI (Kombi), Looper, CinemaBlend, About, What I do, Contacto, estilos (CSS) e imágenes generales.
+
+## 2026-11-10 — Nueva imagen de vista previa (WhatsApp / redes)
+
+- `assets/img/og-cover.png` reemplazada: antes mostraba "LS / Liss Silva — Stories built to hold attention" (fondo negro); ahora usa el diseño actual del sitio (azul, "VP / Alejandra — Stories that stay with you.").
+- Fuente editable de la imagen: `design/og-cover.html`.
+- `og:image` y `twitter:image` ahora usan URL absoluta (`https://alejandravideoproducer.vercel.app/...`), necesaria para WhatsApp; se agregaron `og:url` y dimensiones.
